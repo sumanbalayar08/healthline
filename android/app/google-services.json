@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830583940500",
+    "project_id": "healthline-76c6e",
+    "storage_bucket": "healthline-76c6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830583940500:android:a7ef543ae79f52c0addb81",
+        "android_client_info": {
+          "package_name": "com.example.healthsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830583940500-fgplqv0k2fdsbrk878apnoh4697p0elc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcbmugUbzttttzpXjlChdTeXaV_yxXgeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830583940500-fgplqv0k2fdsbrk878apnoh4697p0elc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
